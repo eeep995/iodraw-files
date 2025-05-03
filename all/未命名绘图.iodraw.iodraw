@@ -153,9 +153,14 @@
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-67" value="面积" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="447" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CgFNA0w8QTauR0g3Gc4K-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CgFNA0w8QTauR0g3Gc4K-68">
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CgFNA0w8QTauR0g3Gc4K-68">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="237" y="510" />
+              <mxPoint x="211" y="510" />
+              <mxPoint x="211" y="540" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-68" value="周长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
