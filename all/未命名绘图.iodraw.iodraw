@@ -25,35 +25,8 @@
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-3" value="微流控分选&lt;div&gt;中性粒细胞&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CgFNA0w8QTauR0g3Gc4K-5" value="中性粒细胞功能检测" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="220" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CgFNA0w8QTauR0g3Gc4K-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="150" width="20" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="CgFNA0w8QTauR0g3Gc4K-14" value="吞噬功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="270" width="60" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-17" value="脱颗粒功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="270" width="66" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CgFNA0w8QTauR0g3Gc4K-18" value="氧化爆发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="270" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CgFNA0w8QTauR0g3Gc4K-19" value="NETs检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="270" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="CgFNA0w8QTauR0g3Gc4K-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="270" as="sourcePoint" />
-            <mxPoint x="460.02" y="260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CgFNA0w8QTauR0g3Gc4K-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CgFNA0w8QTauR0g3Gc4K-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="386.89" y="310" as="sourcePoint" />
-            <mxPoint x="386.89" y="260" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-46" value="压力-形变图谱" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="397" width="120" height="30" as="geometry" />
@@ -65,7 +38,7 @@
           <mxGeometry x="520" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-88" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="414" y="240" width="530" height="450" as="geometry" />
+          <mxGeometry x="50" y="220" width="530" height="450" as="geometry" />
         </mxCell>
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-7" value="成像流式拍摄&lt;div&gt;9阶压力梯度视频&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="CgFNA0w8QTauR0g3Gc4K-88">
           <mxGeometry width="120" height="30" as="geometry" />
@@ -207,6 +180,36 @@
         </mxCell>
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CgFNA0w8QTauR0g3Gc4K-88" source="CgFNA0w8QTauR0g3Gc4K-24" target="CgFNA0w8QTauR0g3Gc4K-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-89" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="220" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-5" value="中性粒细胞功能检测" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="CgFNA0w8QTauR0g3Gc4K-89">
+          <mxGeometry x="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="CgFNA0w8QTauR0g3Gc4K-89">
+          <mxGeometry x="130" y="-70" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-14" value="吞噬功能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CgFNA0w8QTauR0g3Gc4K-89">
+          <mxGeometry y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-18" value="氧化爆发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CgFNA0w8QTauR0g3Gc4K-89">
+          <mxGeometry x="150" y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-19" value="NETs检测" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CgFNA0w8QTauR0g3Gc4K-89">
+          <mxGeometry x="220" y="50" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="CgFNA0w8QTauR0g3Gc4K-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="50" as="sourcePoint" />
+            <mxPoint x="180.01999999999998" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="CgFNA0w8QTauR0g3Gc4K-89" source="CgFNA0w8QTauR0g3Gc4K-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="106.88999999999999" y="90" as="sourcePoint" />
+            <mxPoint x="106.88999999999999" y="40" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
