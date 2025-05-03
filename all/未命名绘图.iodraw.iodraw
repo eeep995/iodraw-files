@@ -109,8 +109,14 @@
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-38" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="205" y="460" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CgFNA0w8QTauR0g3Gc4K-42" target="CgFNA0w8QTauR0g3Gc4K-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-42" value="机器学习" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="397" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-44" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="382" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
