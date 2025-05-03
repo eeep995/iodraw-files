@@ -70,8 +70,8 @@
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-24" value="Python图像数据与训练集构建" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="280" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CgFNA0w8QTauR0g3Gc4K-26" value="" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-26" value="构建分类神经网络" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="50" y="340" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
