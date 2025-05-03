@@ -199,8 +199,11 @@
             <mxPoint x="300" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CgFNA0w8QTauR0g3Gc4K-85" value="ROC曲线分析" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-85" value="散点图分群分析" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="520" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-86" value="ROC曲线分析" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="591.53" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
