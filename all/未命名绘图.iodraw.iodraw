@@ -28,11 +28,6 @@
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-3" value="微流控分选&lt;div&gt;中性粒细胞&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CgFNA0w8QTauR0g3Gc4K-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CgFNA0w8QTauR0g3Gc4K-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-10" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-5" value="中性粒细胞功能检测" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="220" width="120" height="30" as="geometry" />
         </mxCell>
@@ -40,7 +35,7 @@
           <mxGeometry x="370" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="270" width="20" height="120" as="geometry" />
+          <mxGeometry x="50" y="150" width="20" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
