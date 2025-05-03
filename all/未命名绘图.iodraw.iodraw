@@ -137,7 +137,10 @@
           <mxGeometry x="360" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-55" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="490" y="480" width="20" height="160" as="geometry" />
+          <mxGeometry x="485" y="485" width="30" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-56" value="AdaBoost" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="581.53" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
