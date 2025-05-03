@@ -159,6 +159,15 @@
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-69" value="似圆度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="447" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="CgFNA0w8QTauR0g3Gc4K-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CgFNA0w8QTauR0g3Gc4K-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="510" />
+              <mxPoint x="210" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CgFNA0w8QTauR0g3Gc4K-70" value="长宽比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="447" width="60" height="20" as="geometry" />
         </mxCell>
